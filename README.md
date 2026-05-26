@@ -9,3 +9,9 @@
 - http://ku.sdf.org/kuran/v1//kuran.py
 - http://ku.sdf.org/kuran/v1//kuran.rb
 - http://ku.sdf.org/kuran/v1//kuran.php
+
+  ## 🧰 Yazıldığı diller
+
+- Python
+- Ruby
+- PHP
